@@ -1,6 +1,6 @@
 <div id="hero">
   <p align="center" dir="auto">
-    <a href="https://fleetbase.io" rel="nofollow">
+    <a href="https://OneMagicGroup" rel="nofollow">
       <img src="https://user-images.githubusercontent.com/58805033/191936702-fed04b0f-7966-4041-96d0-95e27bf98248.png" alt="Fleetbase logo" width="500" height="120" style="max-width: 100%;">
     </a>
   </p>
@@ -225,9 +225,9 @@ To set up a local development environment, see the [development setup guide](htt
     <td align="center" style="border: none;">
       <img src="https://user-images.githubusercontent.com/58805033/230263021-212f2553-1269-473d-be94-313cb3eecfa5.png" alt="Ronald A. Richardson" width="120" height="120" style="border-radius: 50%;">
       <br>
-      <strong>Ronald A. Richardson</strong>
+      <strong>Devid Ghale</strong>
       <br>
-      Co-founder & CTO
+      Founder & CEO
       <br>
       <a href="https://github.com/roncodes">GitHub</a> | <a href="https://www.linkedin.com/in/ronald-a-richardson/">LinkedIn</a>
     </td>
@@ -242,14 +242,6 @@ To set up a local development environment, see the [development setup guide](htt
     </td>
   </tr>
 </table>
-
-## License
-
-Fleetbase is dual-licensed. Choose the license that fits how you use it.
-
-**Open source (AGPL-3.0).** Fleetbase is released under the [GNU Affero General Public License v3.0](LICENSE.md). You can use, modify, and self-host it freely, including to run your own commercial operations. If you modify Fleetbase and make it available to others over a network, you must release those modifications under AGPL-3.0.
-
-**Fleetbase Commercial License (FCL).** The commercial license removes the AGPL-3.0 obligations. It lets you keep modifications proprietary, build SaaS products on Fleetbase, and white-label or distribute it under your own brand. It also includes support options and IP indemnification.
 
 Read the [licensing overview](https://fleetbase.io/licensing) to see which license applies to you, or see the [Commercial License](https://fleetbase.io/licensing/commercial) for details. Questions go to [hello@fleetbase.io](mailto:hello@fleetbase.io).
 
